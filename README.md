@@ -6,16 +6,14 @@
 
 ### 🛠️ Tech Stack & Ecosystem
 
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud & Infra** | AWS, Terraform, Ansible, Pulumi |
-| **Containers** | Kubernetes, Docker, Helm, ArgoCD |
-| **CI/CD** | GitHub Actions, GitLab CI, Jenkins |
-| **Development** | Go, Python, PostgreSQL, Redis |
+- **Infrastructure:** AWS, Terraform, Ansible, Pulumi
+- **Containers:** Kubernetes, Docker, Helm, ArgoCD
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+- **Development:** Go, Python, PostgreSQL, Redis
 
 ---
 
-### 📊 Engineering Metrics
+### 📈 Engineering Metrics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mordaHQ&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -28,5 +26,8 @@
 
 ---
 
-### 📫 Connect with me
-[Telegram](https://t.me/ваш_логин) | [LinkedIn](https://linkedin.com/in/ваш_профиль) | [Email](mailto:ваш@email.com)
+### 📫 Let's build something scalable
+<p align="left">
+  <a href="https://t.me/lxvsshall"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:devmorda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
