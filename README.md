@@ -1,89 +1,42 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Building+Production-Grade+Systems;DevOps+%26+Platform+Architecture;Clean+Code+%26+Automation" alt="Typing SVG" />
-</div>
+# Hi there, I'm [Ваше Имя] <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZzdqZ3pueXFqZ3pueXFqZ3pueXFqZ3pueXFqZ3pueXFqZ3AmbD1z/hvRJCLFzcasr6/giphy.gif" width="25px">
 
-<h3 align="center">Product & Platform Builder · DevOps · System Architect</h3>
+### Product & Platform Builder • DevOps • System Architect
 
-<p align="center">
-  Designing scalable architectures, automating CI/CD pipelines, and writing clean, maintainable engineering code.
-</p>
-
-<p align="center">
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/Stack-Production--Ready-2ea44f?style=for-the-badge" alt="Stack" />
-  </a>
-  <a href="#-contact">
-    <img src="https://img.shields.io/badge/Contact-Get_in_touch-blue?style=for-the-badge" alt="Contact" />
-  </a>
-</p>
+Designing scalable architectures, automating CI/CD pipelines, and writing clean, maintainable engineering code.
 
 ---
 
-## 🚀 About Me
-
+### 🚀 About Me
 I focus on taking products from **architecture design** to **stable production**. My goal is to build systems that are robust not just in code, but in processes and engineering culture.
 
 * 🏗️ **Architecture:** Designing high-load ready systems.
-* 🔄 **DevOps:** Full automation of development, deployment, and infrastructure.
-* 🛡️ **Quality:** Writing clean code designed for long-term scalability.
-* ⚠️ **Activity Note:** *The majority of my commercial work is under NDA within private enterprise repositories. My public GitHub reflects my open-source tools and architectural experiments.*
+* ☸️ **Infrastructure:** Everything as Code (IaC) and Cloud-native ecosystems.
+* 🛠️ **DevOps:** Bridging the gap between development and operations.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### 💻 Core & Backend
-<img src="https://skillicons.dev/icons?i=js,ts,go,python,nodejs" />
-
-### ⚛️ Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
-
-### ⚙️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,bash,nginx" />
-
-### 🧠 AI & Automation
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-</div>
-
-> Leveraging AI/LLM tools to automate integrations and engineering workflows.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| **Containers** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Helm](https://img.shields.io/badge/-Helm-0F1628?style=flat-square&logo=helm) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions) ![GitLab](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana) ![ELK](https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elastic-stack) |
 
 ---
 
-## 🔥 Featured Projects
-
-### 🔹 [create-sdk](https://github.com/mordaHQ/create-sdk)
-> **The CLI tool for generating enterprise-grade SDKs.**
->
-> Focusing on clean architecture, extensibility, and scalability out of the box.
-> *Status: Active Development*
-
-### 🔹 [project-template](https://github.com/mordaHQ/project-template)
-> **Production-ready Boilerplate.**
->
-> A complete setup including structure, strict configurations, CI/CD pipelines, and documentation standards.
-> *Status: Stable*
-
----
-
-## 🎯 My Mission
-
-To create reliable, scalable, and well-thought-out systems — strong not only in code but in **architecture, processes, and engineering mindset**.
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-devmorda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devmorda@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@lxvsshall-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lxvsshall)
-
-</div>
-
-<br />
+### 📊 My GitHub Stats
 <p align="center">
-  <i>⭐ Found this profile useful? Feel free to star my repositories!</i>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mordaHQ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordaHQ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+<a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/your_telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
