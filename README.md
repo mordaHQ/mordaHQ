@@ -4,12 +4,19 @@
 
 ---
 
+### 🚀 Featured Projects (New & Active)
+
+* **[AI CLI Assistant](https://github.com/mordaHQ/ai-cli-assistant)** — Локальный ИИ-помощник на Go, работающий через Ollama (Llama 3) с использованием GPU RTX 4060. Обладает постоянной памятью в JSON.
+* **[Orbit Docker Inspector](https://github.com/mordaHQ/orbit-docker-inspector)** — Системная утилита на Go для высокопроизводительного мониторинга и анализа Docker-контейнеров в реальном времени.
+
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
-- **Infrastructure:** AWS, Terraform, Ansible, Pulumi
-- **Containers:** Kubernetes, Docker, Helm, ArgoCD
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-- **Development:** Go, Python, PostgreSQL, Redis
+* **Infrastructure:** AWS, Terraform, Ansible, Pulumi
+* **Containers & AI:** Kubernetes, Docker, **Ollama (Local LLM)**, Helm, ArgoCD
+* **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+* **Development:** **Go (Golang)**, Python, PostgreSQL, Redis
 
 ---
 
