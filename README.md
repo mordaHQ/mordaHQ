@@ -1,4 +1,4 @@
-# Hi there, I'm [Ваше Имя] <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZzdqZ3pueXFqZ3pueXFqZ3pueXFqZ3pueXFqZ3pueXFqZ3AmbD1z/hvRJCLFzcasr6/giphy.gif" width="25px">
+# Hi there, I'm MordaHQ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZzdqZ3pueXFqZ3pueXFqZ3pueXFqZ3pueXFqZ3pueXFqZ3AmbD1z/hvRJCLFzcasr6/giphy.gif" width="25px">
 
 ### Product & Platform Builder • DevOps • System Architect
 
