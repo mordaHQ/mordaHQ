@@ -1,42 +1,63 @@
-# 👨‍💻 mordaHQ | System Architect & DevOps
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=System+Architect;DevOps+Engineer;Golang+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+</div>
 
-> Designing scalable architectures, automating CI/CD pipelines, and building robust platform engineering solutions.
+<div align="center">
+  <h3>Designing scalable architectures, automating CI/CD pipelines, and building robust platform engineering solutions.</h3>
+</div>
 
 ---
 
 ### 🚀 Featured Projects (New & Active)
 
-* **[AI Phish Tank](https://github.com/mordaHQ/ai-phish-tank)** — Инструмент для Red Teaming и генерации фишинговых сценариев с помощью локальной LLM (Llama 3). Полный стек: Go Backend, Astro Frontend, PostgreSQL.
-* **[Entropy Bridge](https://github.com/mordaHQ/entropy-bridge)** — Air-gap транспорт для передачи данных через аудиоволны. Реализация кастомной DSP модуляции/демодуляции сигнала на Go.
-* **[AI CLI Assistant](https://github.com/mordaHQ/ai-cli-assistant)** — Локальный ИИ-помощник на Go, работающий через Ollama (Llama 3) с использованием GPU RTX 4060. Обладает постоянной памятью в JSON.
-* **[Docker Inspector](https://github.com/mordaHQ/docker-inspector)** — Системная утилита на Go для высокопроизводительного мониторинга и анализа Docker-контейнеров в реальном времени.
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **💀 [AI Phish Tank](https://github.com/mordaHQ/ai-phish-tank)** | **Red Teaming Tool.** Локальная среда для генерации фишинговых сценариев с помощью LLM. | `Go` `Astro` `Llama3` |
+| **📡 [Entropy Bridge](https://github.com/mordaHQ/entropy-bridge)** | **Air-gap Transport.** Передача данных через аудиоволны с кастомной модуляцией сигнала. | `Go` `DSP` `PortAudio` |
+| **🤖 [AI CLI Assistant](https://github.com/mordaHQ/ai-cli-assistant)** | **Terminal AI.** Умный помощник для терминала с долговременной памятью (RAG light). | `Go` `Ollama` `JSON` |
+| **🐳 [Docker Inspector](https://github.com/mordaHQ/docker-inspector)** | **DevOps Tool.** Утилита для глубокой инспекции и мониторинга контейнеров в реальном времени. | `Go` `Docker API` |
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-* **Infrastructure:** AWS, Terraform, Ansible, Pulumi
-* **Containers & AI:** Kubernetes, Docker, **Ollama (Local LLM)**, Helm, ArgoCD
-* **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-* **Development:** **Go (Golang)**, Python, PostgreSQL, Redis
+<div align="center">
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**Infrastructure & DevOps**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
+**AI & Data**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama_LLM-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</div>
 
 ---
 
 ### 📈 Engineering Metrics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mordaHQ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordaHQ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mordaHQ/mordaHQ/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mordaHQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordaHQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA" height="180" alt="langs" />
+</div>
 
 ---
 
-### 📫 Let's build something scalable
-<p align="left">
-  <a href="https://t.me/lxvsshall"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:devmorda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 📫 Contact
+<div align="center">
+  <a href="https://t.me/lxvsshall">
+    <img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:devmorda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
