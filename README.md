@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=System+Architect;DevOps+Engineer;Golang+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=System+Architect;DevOps+Engineer;Golang+Developer;Chef+turned+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <h3>Designing scalable architectures, automating CI/CD pipelines, and building robust platform engineering solutions.</h3>
 </div>
+
+---
+
+### ⚡ About Me
+
+I am a **System Architect & DevOps Engineer** with a unique background.
+* 👨‍🍳 **Background:** 9 years as a **Professional Chef (Sous-Chef)**. Leading teams of 15+ people in high-pressure environments taught me extreme discipline, rapid problem-solving, and stress resistance.
+* 🌍 **Current Role:** IT Specialist at **Association Concept VSJ** (Strasbourg, France 🇫🇷), managing infrastructure and delivering complex IT solutions.
+* 📍 **Base:** Almaty, Kazakhstan 🇰🇿.
 
 ---
 
