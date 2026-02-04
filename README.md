@@ -12,10 +12,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **💀 [AI Phish Tank](https://github.com/mordaHQ/ai-phish-tank)** | **Red Teaming Tool.** Локальная среда для генерации фишинговых сценариев с помощью LLM. | `Go` `Astro` `Llama3` |
-| **📡 [Entropy Bridge](https://github.com/mordaHQ/entropy-bridge)** | **Air-gap Transport.** Передача данных через аудиоволны с кастомной модуляцией сигнала. | `Go` `DSP` `PortAudio` |
-| **🤖 [AI CLI Assistant](https://github.com/mordaHQ/ai-cli-assistant)** | **Terminal AI.** Умный помощник для терминала с долговременной памятью (RAG light). | `Go` `Ollama` `JSON` |
-| **🐳 [Docker Inspector](https://github.com/mordaHQ/docker-inspector)** | **DevOps Tool.** Утилита для глубокой инспекции и мониторинга контейнеров в реальном времени. | `Go` `Docker API` |
+| **💀 [AI Phish Tank](https://github.com/mordaHQ/ai-phish-tank)** | **Red Teaming Tool.** Локальная среда для генерации фишинговых сценариев с помощью LLM. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) |
+| **📡 [Entropy Bridge](https://github.com/mordaHQ/entropy-bridge)** | **Air-gap Transport.** Передача данных через аудиоволны с кастомной модуляцией сигнала. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![DSP](https://img.shields.io/badge/-DSP-blue?style=flat-square) |
+| **🤖 [AI CLI Assistant](https://github.com/mordaHQ/ai-cli-assistant)** | **Terminal AI.** Умный помощник для терминала с долговременной памятью (RAG light). | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-white?style=flat-square&logo=ollama&logoColor=black) |
+| **🐳 [Docker Inspector](https://github.com/mordaHQ/docker-inspector)** | **DevOps Tool.** Утилита для глубокой инспекции и мониторинга контейнеров в реальном времени. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
@@ -46,8 +46,13 @@
 ### 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mordaHQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordaHQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA" height="180" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mordaHQ&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordaHQ&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mordaHQ&theme=tokyonight&hide_border=true" height="165" alt="streak" />
 </div>
 
 ---
@@ -60,4 +65,6 @@
   <a href="mailto:devmorda@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mordaHQ&label=Profile%20Views&color=64FFDA&style=flat-square" alt="watchers" />
 </div>
